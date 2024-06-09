@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on f1ndr</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on f1ndr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 f1ndr</copyright>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿兹特克死亡哨</title>
+      <link>http://example.org/posts/1717474351560-%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B%E6%AD%BB%E4%BA%A1%E5%93%A8/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/1717474351560-%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B%E6%AD%BB%E4%BA%A1%E5%93%A8/</guid>
+      <description>外观： 声音： https://www.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://example.org/posts/1717474351560-%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B%E6%AD%BB%E4%BA%A1%E5%93%A8/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
